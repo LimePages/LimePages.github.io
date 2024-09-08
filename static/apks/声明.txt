@@ -1,0 +1,4 @@
+部分大陆用户无法下载安装包
+现在将包上传至Github
+此目录包含apk与ipa
+感谢Ghproxy（https://mirror.ghproxy.com/）
